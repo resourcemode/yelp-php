@@ -1,5 +1,5 @@
 {
-    "name": "stevenmaguire/yelp-php",
+    "name": "resourcemode/yelp-php",
     "description": "A php client for consumer Yelp API",
     "homepage" : "http://github.com/stevenmaguire/yelp-php",
     "authors" : [
@@ -19,7 +19,6 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "guzzle/guzzle": "~3.9",
         "guzzlehttp/oauth-subscriber": "0.1.*"
     },
     "autoload": {
